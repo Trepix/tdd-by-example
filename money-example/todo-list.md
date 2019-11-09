@@ -14,7 +14,7 @@
 * ~~5CHF * 2 = 10CHF~~
 * Dollar/Franc duplication
 * ~~Common equals~~
-* Common times
+* **~~Common times~~**
 * ~~Compare Francs with Dollars~~
-* ~~**Currency?**~~
+* ~~Currency?~~
 * Delete testFrancMultiplication?
