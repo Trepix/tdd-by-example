@@ -11,7 +11,8 @@
 * hashCode
 * Equal null
 * Equal object
-* **~~5CHF * 2 = 10CHF~~**
+* ~~5CHF * 2 = 10CHF~~
 * Dollar/Franc duplication
-* Common equals
+* ~~**Common equals**~~
 * Common times
+* Compare Francs with Dollars
