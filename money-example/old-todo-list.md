@@ -1,0 +1,20 @@
+# Money example
+
+## ToDo List
+
+* 5$ + 10CHF = 10$ if rate is 2:1
+* ~~5$ * 2 = 10$~~
+* ~~Make "amount" private~~
+* ~~Dollar side-effects?~~  
+* Money rounding?
+* ~~equals()~~
+* hashCode
+* Equal null
+* Equal object
+* ~~5CHF * 2 = 10CHF~~
+* **~~Dollar/Franc duplication~~**
+* ~~Common equals~~
+* ~~Common times~~
+* ~~Compare Francs with Dollars~~
+* ~~Currency?~~
+* ~~Delete testFrancMultiplication?~~
