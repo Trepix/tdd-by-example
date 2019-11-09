@@ -13,6 +13,7 @@
 * Equal object
 * ~~5CHF * 2 = 10CHF~~
 * Dollar/Franc duplication
-* ~~**Common equals**~~
+* ~~Common equals~~
 * Common times
-* Compare Francs with Dollars
+* ~~**Compare Francs with Dollars**~~
+* Currency?
